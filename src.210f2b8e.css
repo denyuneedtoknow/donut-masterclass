@@ -1,0 +1,2 @@
+:root{--main-font:"Montserrat",sans-serif;--decorative-font:"Caveat Brush",cursive}*,:after,:before,html{box-sizing:border-box}body{font-family:var(--main-font)}h1,h2,h3,h4,h5,h6,p{margin-top:0}.list{margin:0;padding-left:0;list-style-type:none}.img{display:block;max-width:100%;height:auto}.visually-hidden{position:absolute!important;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);padding:0!important;border:0!important;height:1px!important;width:1px!important;overflow:hidden}
+/*# sourceMappingURL=/donut-masterclass/src.210f2b8e.css.map */
